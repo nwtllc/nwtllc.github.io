@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a6aeb26.css",
-    "main.js": "./static/js/main.83f07176.js",
+    "main.css": "./static/css/main.939253e7.css",
+    "main.js": "./static/js/main.b95338c0.js",
     "static/media/Illustration4_.png": "./static/media/Illustration4_.359a59da8aa18e29985e.png",
     "static/media/partnership.jpg": "./static/media/partnership.a927e00f1fc9aec4f3ae.jpg",
-    "static/media/LogoLightTheme.svg": "./static/media/LogoLightTheme.34240652d978697f06fb62a8c809dc95.svg",
-    "static/media/LogoDarkTheme.svg": "./static/media/LogoDarkTheme.9f73ac1d27d7569bf958bc52b053ce9f.svg",
+    "static/media/LogoLightTheme.svg": "./static/media/LogoLightTheme.9a7f2a0e89a3f385abead65a07f93753.svg",
+    "static/media/LogoDarkTheme.svg": "./static/media/LogoDarkTheme.08c70e519e24dea9a52621a19e2b9052.svg",
     "static/media/Location.svg": "./static/media/Location.d77a4e1d957695645b50ad21571f21ef.svg",
     "static/media/Loader.svg": "./static/media/Loader.0430a20918fa20b009744a2442cbbf1f.svg",
     "static/media/LogoFooter.svg": "./static/media/LogoFooter.875064a52fc0cc6d6f5059e1f4147f0a.svg",
@@ -27,11 +27,11 @@
     "static/media/ArrowDown.svg": "./static/media/ArrowDown.6f1e83176dad2f3c2fa3ad84d461a9c0.svg",
     "static/media/Facebook.svg": "./static/media/Facebook.150f08a5a5ed74de169c0aeb7c6e6153.svg",
     "static/media/getFetch.cjs": "./static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.5a6aeb26.css.map": "./static/css/main.5a6aeb26.css.map",
-    "main.83f07176.js.map": "./static/js/main.83f07176.js.map"
+    "main.939253e7.css.map": "./static/css/main.939253e7.css.map",
+    "main.b95338c0.js.map": "./static/js/main.b95338c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6aeb26.css",
-    "static/js/main.83f07176.js"
+    "static/css/main.939253e7.css",
+    "static/js/main.b95338c0.js"
   ]
 }
