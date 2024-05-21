@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.939253e7.css",
-    "main.js": "./static/js/main.9d97be9e.js",
+    "main.css": "./static/css/main.fe11aefe.css",
+    "main.js": "./static/js/main.52684f76.js",
+    "static/media/tower.jpg": "./static/media/tower.c8a84e90c35cb1f012b2.jpg",
     "static/media/Illustration4_.png": "./static/media/Illustration4_.359a59da8aa18e29985e.png",
+    "static/media/fiber.jpg": "./static/media/fiber.b63524ffd299c9643c8a.jpg",
+    "static/media/towertraining-2.png": "./static/media/towertraining-2.41fdfa629d5f459fce65.png",
+    "static/media/towertraining-1.png": "./static/media/towertraining-1.3a029242db7a93569df9.png",
     "static/media/partnership.jpg": "./static/media/partnership.a927e00f1fc9aec4f3ae.jpg",
     "static/media/LogoLightTheme.svg": "./static/media/LogoLightTheme.9a7f2a0e89a3f385abead65a07f93753.svg",
     "static/media/LogoDarkTheme.svg": "./static/media/LogoDarkTheme.08c70e519e24dea9a52621a19e2b9052.svg",
@@ -27,11 +31,11 @@
     "static/media/ArrowDown.svg": "./static/media/ArrowDown.6f1e83176dad2f3c2fa3ad84d461a9c0.svg",
     "static/media/Facebook.svg": "./static/media/Facebook.150f08a5a5ed74de169c0aeb7c6e6153.svg",
     "static/media/getFetch.cjs": "./static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.939253e7.css.map": "./static/css/main.939253e7.css.map",
-    "main.9d97be9e.js.map": "./static/js/main.9d97be9e.js.map"
+    "main.fe11aefe.css.map": "./static/css/main.fe11aefe.css.map",
+    "main.52684f76.js.map": "./static/js/main.52684f76.js.map"
   },
   "entrypoints": [
-    "static/css/main.939253e7.css",
-    "static/js/main.9d97be9e.js"
+    "static/css/main.fe11aefe.css",
+    "static/js/main.52684f76.js"
   ]
 }
